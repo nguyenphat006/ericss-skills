@@ -1,0 +1,16 @@
+{
+  "name": "landing-kit",
+  "description": "Two skills for building CMS-backed landing pages in any industry: landing-cms-stack (discovery, content models, Next.js 16 + Django 5.2/Wagtail 8, caching, deploy) and landing-design-system (tokens, components, section catalog, page presets)",
+  "version": "1.0.0",
+  "author": {
+    "name": "ericss"
+  },
+  "keywords": [
+    "landing-page",
+    "cms",
+    "nextjs",
+    "django",
+    "wagtail",
+    "design-system"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "ericss-skills",
+  "description": "Agent skills by ericss",
+  "owner": {
+    "name": "ericss"
+  },
+  "plugins": [
+    {
+      "name": "landing-kit",
+      "source": "./plugins/landing-kit",
+      "description": "Build a CMS-backed landing page or company website for any industry: discovery, Next.js 16 + Django/Wagtail, design system and a catalog of section layouts"
+    }
+  ]
+}
